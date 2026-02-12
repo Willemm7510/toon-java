@@ -30,3 +30,4 @@ Notes and usage details for toon-java.
 - link the usage section
 - link the usage section
 - fix a small wording issue
+- add a note about the defaults
